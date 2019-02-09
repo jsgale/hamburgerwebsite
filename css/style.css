@@ -4,8 +4,34 @@ html, body {
   background-color: #FFFFFF;
 }
 
-.container{
-  justify-content: center;
-  align-items: center;
+/*Home Page*/
+
+.hero{
+  height: 100%;
+  width: 100%;
 }
+
+/*Menu Page*/
+
+.flavor{
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.menu h4{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/*About Page*/
+
+.about h2{
+  font-style: italic;
+}
+
+.super {
+  color: #FF0000;
+  font-size: 24px;
+}
+
 
