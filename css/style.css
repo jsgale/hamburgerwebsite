@@ -13,9 +13,14 @@ html, body {
 
 /*Menu Page*/
 
+.menu h4{
+  margin-left: 10px;
+}
+
 .flavor{
   font-style: italic;
   margin-bottom: 5px;
+  margin-left: 10px;
 }
 
 .menu h4{
@@ -27,6 +32,13 @@ html, body {
 
 .about h2{
   font-style: italic;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.about p{
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .super {
@@ -34,4 +46,50 @@ html, body {
   font-size: 24px;
 }
 
+/*Contact Page*/
 
+.locations h2, h4{
+  margin-left: 10px;
+}
+
+.locations h4{
+  text-decoration: underline;
+}
+
+.locations img{
+  height: 80%;
+  width: 80%;
+}
+
+.subscribe h2{
+  margin-left: 10px;
+}
+
+/*Careers Page*/
+
+.jobs h4{
+  margin-left: 10px;
+}
+
+.form-group{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#subscribe{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.fa{
+  font-size: 50px;
+  padding: 20px;
+}
+
+.socialmedia h2{
+  margin-left: 10px;
+}
+
+.socialmedia span{
+  font-size: 36px;
+}
