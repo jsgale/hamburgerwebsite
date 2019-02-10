@@ -11,6 +11,7 @@ html, body {
   width: 100%;
 }
 
+
 /*Menu Page*/
 
 .menu h4{
@@ -65,17 +66,6 @@ html, body {
   margin-left: 10px;
 }
 
-/*Careers Page*/
-
-.jobs h4{
-  margin-left: 10px;
-}
-
-.form-group{
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
 #subscribe{
   margin-left: 10px;
   margin-bottom: 10px;
@@ -92,4 +82,30 @@ html, body {
 
 .socialmedia span{
   font-size: 36px;
+}
+
+
+/*Careers Page*/
+
+.jobApp{
+  width: 98%;
+}
+
+.jobs h4{
+  margin-left: 10px;
+}
+
+.form-group{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.socialmedia{
+  margin-left: 10px;
+}
+
+
+#jobApply{
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
